@@ -46,9 +46,9 @@ body{
 }
 
 #construction a{
-  color: #333  ;
+  color: #aaa  ;
   text-decoration: none;
 }
 #construction a:hover{
-  color: #aaa;
+  color: #fff;
 }
