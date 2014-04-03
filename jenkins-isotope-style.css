@@ -19,7 +19,8 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
     width: auto; }
   #top-panel td > a {
-    background: url("http://ead.ipleiria.pt/ucs201213/theme/ued/images/logo.png") 0 0 no-repeat;
+    background: url("http://sites.ipleiria.pt/wp-content/themes/sitesIPL/images/logo_ipl.png") 0 0 no-repeat;
+    background-size: 130px;
     display: block;
     width: 130px;
     height: 40px;
